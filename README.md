@@ -1,16 +1,29 @@
-## Hi there 👋
+Hola, soy Jesús Castellanos
 
-<!--
-**JCastellanosDev/JCastellanosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingenieria en Tecnologias de la información
 
-Here are some ideas to get you started:
+Aprendiendo arquitectura de software y buenas practicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sobre mi...
+
+Actualmente estoy aprendiendo arquitectura de software, programacion orientada a objetos y buenas practicas
+de desarrollo.
+Me gusta construir sistemas funcionales y mejorar constantemente mi logica de programación.
+
+
+Tecnologias que se usar:
+
+* Java(POO)
+
+* Python 
+
+* Git y GitHub
+
+
+
+Objetivo:
+
+Convertirme en desarrollador fullstack y participar en hackatones, creando proyectos reales y 
+mejorando mis habilidades constantemente.
+
